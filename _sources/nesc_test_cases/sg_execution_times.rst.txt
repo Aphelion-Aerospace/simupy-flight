@@ -6,40 +6,40 @@
 
 Computation times
 =================
-**25:23.909** total execution time for **nesc_test_cases** files:
+**23:53.851** total execution time for **nesc_test_cases** files:
 
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case15.py` (``nesc_case15.py``)     | 11:52.315 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case15.py` (``nesc_case15.py``)     | 11:11.693 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case16.py` (``nesc_case16.py``)     | 06:43.422 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case16.py` (``nesc_case16.py``)     | 06:18.823 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case13p4.py` (``nesc_case13p4.py``) | 01:41.565 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case13p4.py` (``nesc_case13p4.py``) | 01:34.773 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case11.py` (``nesc_case11.py``)     | 01:17.767 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case11.py` (``nesc_case11.py``)     | 01:12.833 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case13p3.py` (``nesc_case13p3.py``) | 00:54.169 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case13p3.py` (``nesc_case13p3.py``) | 00:50.863 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case13p1.py` (``nesc_case13p1.py``) | 00:37.893 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case13p1.py` (``nesc_case13p1.py``) | 00:35.620 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case13p2.py` (``nesc_case13p2.py``) | 00:37.157 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case13p2.py` (``nesc_case13p2.py``) | 00:34.502 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case07.py` (``nesc_case07.py``)     | 00:10.343 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case07.py` (``nesc_case07.py``)     | 00:09.775 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case08.py` (``nesc_case08.py``)     | 00:10.106 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case08.py` (``nesc_case08.py``)     | 00:09.629 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case06.py` (``nesc_case06.py``)     | 00:10.081 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case06.py` (``nesc_case06.py``)     | 00:09.585 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case01.py` (``nesc_case01.py``)     | 00:10.072 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case10.py` (``nesc_case10.py``)     | 00:09.500 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case10.py` (``nesc_case10.py``)     | 00:10.005 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case09.py` (``nesc_case09.py``)     | 00:09.465 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case09.py` (``nesc_case09.py``)     | 00:09.915 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case01.py` (``nesc_case01.py``)     | 00:09.448 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case02.py` (``nesc_case02.py``)     | 00:09.895 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case02.py` (``nesc_case02.py``)     | 00:09.436 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case03.py` (``nesc_case03.py``)     | 00:09.831 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case03.py` (``nesc_case03.py``)     | 00:09.417 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case05.py` (``nesc_case05.py``)     | 00:09.688 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case04.py` (``nesc_case04.py``)     | 00:09.246 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
-| :ref:`sphx_glr_nesc_test_cases_nesc_case04.py` (``nesc_case04.py``)     | 00:09.685 | 0.0 MB |
+| :ref:`sphx_glr_nesc_test_cases_nesc_case05.py` (``nesc_case05.py``)     | 00:09.242 | 0.0 MB |
 +-------------------------------------------------------------------------+-----------+--------+
